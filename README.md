@@ -12,7 +12,7 @@ Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
 Documentar el aprendizaje de Python y otros software para el analisis de datos
 
-Corresponde a la tercera semana del curso Data Analysis with Python
+Corresponde a la tercera clase del curso Data Analysis with Python
 
 Se resumen las principales características de los datos, obtener una mejor comprensión del conjunto de datos, descubrir relaciones entre diferentes variables y extraer variables importantes para determinar el precio de un automóvil. Incluye: 
 
