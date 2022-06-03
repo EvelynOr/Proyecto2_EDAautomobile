@@ -1,4 +1,4 @@
-# -Proyecto2_EDAautomobile
+# Proyecto2_EDAautomobile
 
 EDA (por sus siglas en inglés exploratory data analysis)
 
