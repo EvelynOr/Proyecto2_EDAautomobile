@@ -44,11 +44,11 @@ Cada uno de los archivos muestra el tiempo en el que se realizó
 
 **Puntos a considerar
 
-  En el archivo de jupyter se dejan algunas referencias que se utilizaron, encerradas en [] 
+  - En el archivo de jupyter se dejan algunas referencias que se utilizaron, encerradas en [] 
 
-  La forma de hacer un EDA depende del tipo de información que se requiere analizar y el estado de los datos, en este caso la data ya estaba lista para el analisis
+  - La forma de hacer un EDA depende del tipo de información que se requiere analizar y el estado de los datos, en este caso la data ya estaba lista para el analisis
 
-  Formular la(s) pregunta(s) adecuadas previo a iniciar el EDA guía y facilita el proceso.
+  - Formular la(s) pregunta(s) adecuadas previo a iniciar el EDA guía y facilita el proceso.
   
   
   
