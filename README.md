@@ -54,7 +54,7 @@ Cada uno de los archivos muestra el tiempo en el que se realizó
   
 **Consideraciones especiales
 
-  En Python: cuando los nombres de las variables tienen un guion en medio (body-style), causó problemas al momento de realizar algunos análisis. Se Resolvió al eliminarlo.
+  En Python: cuando los nombres de las variables tienen un guion en medio (body-style), causó problemas al momento de realizar algunos análisis. Se resolvió al eliminarlo.
   
   En Excel: hay algunos análisis que requieren que algunos pasos se realicen manualmente, prueba chi cuadrado. 
   
