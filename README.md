@@ -9,11 +9,14 @@ Corresponde a la tercera clase del curso Data Analysis with Python
 
 **Objetivo del proyecto:
 
-Documentar el aprendizaje de Python y otros software para el análisis de datos. Se presenta el mismo proyecto en: Python, Power BI (cuando aplican los análisis) y Excel
+Documentar el aprendizaje de Python y otros software para el análisis de datos. 
+
+Se presenta el mismo proyecto en: Python, Power BI (cuando aplican los análisis) y Excel
+
 
 **Contenido
 
-Se resumen las principales características de los datos, obtener una mejor comprensión del conjunto de datos, descubrir relaciones entre diferentes variables y extraer variables importantes para determinar el precio de un automóvil. Incluye: 
+Se resumen las principales características de los datos, obtener una mejor comprensión de los mismos, descubrir relaciones entre diferentes variables y extraer variables importantes para determinar el precio de un automóvil. Incluye: 
 
   1.Estadísticas descriptivas
 
