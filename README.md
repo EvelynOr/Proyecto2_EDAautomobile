@@ -6,6 +6,7 @@ El análisis exploratorio de datos es un enfoque para analizar datos con el fin 
 
 Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
+Se presenta el mismo proyecto en: Python, Power BI (cuando aplican los análisis) y Excel
 
 
 **Objetivo del proyecto:
@@ -27,42 +28,12 @@ Se resumen las principales características de los datos, obtener una mejor comp
   5.Correlación para variable cuantitativas y variables catagoricas
 
 
-**Objetivos del analisis:
-
-  Python: aplicar instrucciones de la libreria Pandas para el análisis de datos
-
-  Power BI: utilizar instrucciones y graficas de PBI
-
-  Excel: revisar instrucciones para en analisis de datos
 
 
-Se presenta el mismo proyecto en: Python, Power BI y Excel
+ 
 
-Cada uno de los archivos muestra el tiempo en el que se realizó 
-
-
-
-**Puntos a considerar
-
-  - En el archivo de jupyter se dejan algunas referencias que se utilizaron, encerradas en [] 
-
-  - La forma de hacer un EDA depende del tipo de información que se requiere analizar y el estado de los datos, en este caso la data ya estaba lista para el analisis
-
-  - Formular la(s) pregunta(s) adecuadas previo a iniciar el EDA guía y facilita el proceso.
   
-  
-  
-**Consideraciones especiales
-
-  En Python: cuando los nombres de las variables tienen un guion en medio (body-style), causó problemas al momento de realizar algunos análisis. Se resolvió al eliminarlo.
-  
-  En Excel: hay algunos análisis que requieren que algunos pasos se realicen manualmente, prueba chi cuadrado. 
-  
-  
-  
-  
-  
-  
+ 
   
   ![image](https://user-images.githubusercontent.com/82233779/171929685-035bbb0a-3324-423b-8e1c-66195f5fd759.png)
 
