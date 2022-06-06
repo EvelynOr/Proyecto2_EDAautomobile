@@ -29,6 +29,12 @@ Se resumen las principales características de los datos, obtener una mejor comp
   5.Correlación para variable cuantitativas y variables catagoricas
 
 
+**Sugerencias
+Estas son otras librerías que se pueden utilizar en un EDA
+•	Pandas-Profiling
+•	Sweetviz
+•	Autoviz
+•	D-Tale
 
 
  
