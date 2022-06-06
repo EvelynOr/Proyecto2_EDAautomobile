@@ -11,7 +11,7 @@ Se presenta el mismo proyecto en: Python, Power BI (cuando aplican los análisis
 
 **Objetivo del proyecto:
 
-Documentar el aprendizaje de Python y otros software para el analisis de datos
+Documentar el aprendizaje de Python y otros software para el análisis de datos
 
 Corresponde a la tercera clase del curso Data Analysis with Python
 
